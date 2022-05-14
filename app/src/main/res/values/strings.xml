@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VitaQR Paramédico</string>
+    <string name="logo">VitaQR</string>
+    <string name="lema">Preocupándonos por la salud de los mexicanos</string>
+    <string name="ingresar">Comenzar</string>
+    <string name="copyright">Todos los derechos reservados</string>
+
+</resources>
