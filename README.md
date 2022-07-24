@@ -1,2 +1,3 @@
 # VitaQRMovil_Paramedico
-Aplicación móvil del sistema VitaQR para paramédicos
+
+Mobile application of the VitaQR system for paramedics, developed to scan the patient QR and read his medical record
